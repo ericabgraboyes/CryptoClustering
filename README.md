@@ -19,6 +19,7 @@ Load [crypto_currency_data](/Resources/crypto_market_data.csv) to a Pandas DF an
 
 ### Find the Best Value for k Using the Original Scaled DataFrame: 
 I used the elbow method on the scaled dataset determine the best value for 'k'.  
+[Elbow Curve - To Determine Optimal Number of Clusters]
 
 
 
