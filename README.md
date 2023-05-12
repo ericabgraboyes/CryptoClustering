@@ -12,6 +12,8 @@ There were several individual deliverables that needed to be completed in order 
     <li> Cluster Cryptocurrencies with K-means Using the PCA Data </li>
 </ol>
 
+For the purpose of the activity I set the random_state = 0 so that results could be replicated by others
+
 ### Prepare Data : 
 Load [crypto_currency_data](/Resources/crypto_market_data.csv) to a Pandas DF and plot the dataset before transforming
 <img src = "https://github.com/ericabgraboyes/CryptoClustering/blob/main/Images/Raw_Data.png" alt = "Inital Data Plot">
